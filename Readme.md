@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="cplusplus" width="200" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="cplusplus" width="300" height="100"/>
 </div>
 
 
